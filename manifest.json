@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Term Library",
   "version": "1.0",
-  "description": "Save terms and get field-relevant explanations powered by Claude AI",
+  "description": "Highlight text on any webpage and save it to a running list with a link back to the source",
   "permissions": [
     "contextMenus",
     "storage",
